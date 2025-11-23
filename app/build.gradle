@@ -9,9 +9,9 @@ android {
     defaultConfig {
         applicationId "marto.rtl_tcp_andro"
         minSdk 21
-        targetSdk 34
-        versionCode 31
-        versionName "3.151"
+        targetSdk 36
+        versionCode 32
+        versionName "3.152"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
